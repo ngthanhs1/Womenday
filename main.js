@@ -14,10 +14,11 @@ onload = () => {
             var typingTimer;
 
             var letterLines = [
-            "Chúc mừng Ngày Phụ nữ Việt Nam 20/10!",
-            "Chúc người đẹp của con luôn mạnh khỏe, luôn trẻ trung xinh đẹp ",
-            "Đặc biệt là trong túi lúc nào cũng có tiền và trong lòng có con hẹ hẹ"
-        ];
+    "Chúc mừng Ngày Phụ nữ Việt Nam 20/10!",
+    "Chúc bạn luôn xinh đẹp, tự tin và tràn đầy năng lượng tích cực",
+    "Mong bạn luôn gặp nhiều may mắn, thành công và được yêu thương mỗi ngày"
+];
+
 
 
             envelope.click(function () {
